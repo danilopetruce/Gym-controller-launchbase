@@ -16,7 +16,7 @@ Projeto para gerenciamento de Instrutores e Membros de uma academia, onde o foco
 - nunjucks
 - npm-run-all
 
-O seu arquivo package.json após executar o npm ou yarn no projeto deverá ficar parecido com o exemplo abaixo:
+O seu arquivo package.json após executar o npm ou yarn no projeto e instalação das devidas dependências, deverá ficar parecido com o exemplo abaixo:
 
 ```sh
 
