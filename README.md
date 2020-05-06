@@ -4,11 +4,17 @@ Projeto para gerenciamento de Instrutores e Membros de uma academia, onde o foco
 
 ## Tecnologias Utilizadas:
 
--Node JS
--Express JS
--HTML, CSS e Javascript
+- Node JS 
+- Express JS
+- HTML, CSS e Javascript
 
 ## Dependencias instaladas:
+
+- nodemon
+- browser-sync
+- npm-run-all
+- nunjucks
+- npm-run-all
 
 O seu arquivo package.json após executar o npm ou yarn no projeto deverá ficar parecido com o exemplo abaixo:
 
@@ -40,5 +46,8 @@ O seu arquivo package.json após executar o npm ou yarn no projeto deverá ficar
 ## Próximos passos:
 
 - Persistindo os dados com banco relacional (postgresql)
+- Ajustes de membros
+- Relacionamento com tabelas
+- Filtros de tabelas
 - Paginação
 
