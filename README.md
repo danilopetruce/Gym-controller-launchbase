@@ -39,5 +39,6 @@ O seu arquivo package.json após executar o npm ou yarn no projeto deverá ficar
 
 ## Próximos passos:
 
-[] Presistindo os dados com banco relacional (postgresql)
+- Persistindo os dados com banco relacional (postgresql)
+- Paginação
 
